@@ -48,7 +48,7 @@ Run the script. The hydrated Tweets will be stored in the same folder as the Twe
 python3 hydrate.py
 ```
 
-# Data Usage Agreement
+# Data Usage Agreement / How to Cite
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
 
 Chen E, Lerman K, Ferrara E
@@ -56,6 +56,20 @@ Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Pu
 JMIR Public Health Surveillance 2020;6(2):e19273 
 DOI: 10.2196/19273 
 PMID: 32427106
+
+BibTeX:
+```bibtex
+@article{chen2020tracking,
+  title={Tracking social media discourse about the covid-19 pandemic: Development of a public coronavirus twitter data set},
+  author={Chen, Emily and Lerman, Kristina and Ferrara, Emilio},
+  journal={JMIR Public Health and Surveillance},
+  volume={6},
+  number={2},
+  pages={e19273},
+  year={2020},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+```
 
 # Statistics Summary (v2.37) 
 Number of Tweets : **1,235,254,351**
