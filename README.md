@@ -71,22 +71,22 @@ BibTeX:
 }
 ```
 
-# Statistics Summary (v2.38) 
-Number of Tweets : **1,258,560,216**
+# Statistics Summary (v2.39) 
+Number of Tweets : **1,282,780,680**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 830,077,559      | 65.95%             |
-| Spanish         | es      | 154,673,839      | 12.29%             |
-| Portuguese      | pt      | 48,537,828       | 3.86%              |
-| French          | fr      | 37,196,393       | 2.96%              |
-| Undefined       | und     | 35,528,197       | 2.82%              |
-| Indonesian      | in      | 32,743,567       | 2.6%               |
-| German          | de      | 20,421,380       | 1.62%              |
-| Japanese        | ja      | 14,968,129       | 1.19%              |
-| Italian         | it      | 13,610,339       | 1.08%              |
-| Turkish         | tr      | 12,972,715       | 1.03%              |
+| English         | en      | 842,745,290      | 65.7%              |
+| Spanish         | es      | 158,218,582      | 12.33%             |
+| Portuguese      | pt      | 51,482,588       | 4.01%              |
+| French          | fr      | 38,253,997       | 2.98%              |
+| Undefined       | und     | 36,268,761       | 2.83%              |
+| Indonesian      | in      | 33,145,083       | 2.58%              |
+| German          | de      | 21,185,219       | 1.65%              |
+| Japanese        | ja      | 15,189,910       | 1.18%              |
+| Italian         | it      | 14,016,989       | 1.09%              |
+| Turkish         | tr      | 13,171,045       | 1.03%              |
 
 # Known Gaps
 | Date          | Time              |
@@ -111,3 +111,4 @@ If you have any further questions about this dataset please contact Dr. Emilio F
 # Related Papers
 - [What types of COVID-19 conspiracies are populated by Twitter bots?](https://firstmonday.org/ojs/index.php/fm/article/view/10633/9548)
 - [Political polarization drives online conversations about COVID‐19 in the United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hbe2.202)
+- [COVID-19 misinformation and the 2020 U.S. presidential election](https://misinforeview.hks.harvard.edu/article/covid-19-misinformation-and-the-2020-u-s-presidential-election/)
