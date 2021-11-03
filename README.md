@@ -1,5 +1,4 @@
 # COVID-19-TweetIDs
- **Announcement** We are currently running into some issues with our servers being slower than normal. We are still aiming for our typical Monday release, but we may be running late and will upload IDs as soon as possible. We apologize for the inconvenience and thank you for your patience! 
  
 The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020. We used the Twitter’s search API to gather historical Tweets from the preceding 7 days, leading to the first Tweets in our dataset dating back to January 21, 2020. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
@@ -72,22 +71,10 @@ BibTeX:
 }
 ```
 
-# Statistics Summary (v2.70)
-Number of Tweets : **1,995,620,333**
+# Statistics Summary (v2.71)
+Number of Tweets : **2,010,791,913**
 
-Language breakdown of top 10 most prevalent languages :
-| Language        | ISO     | No. tweets       | % total Tweets     |
-|-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,270,563,955    | 63.67%             |
-| Spanish         | es      | 240,616,667      | 12.06%             |
-| Portuguese      | pt      | 84,372,958       | 4.23%              |
-| Indonesian      | in      | 63,990,726       | 3.21%              |
-| French          | fr      | 62,917,614       | 3.15%              |
-| Undefined       | und     | 58,806,041       | 2.95%              |
-| German          | de      | 35,952,285       | 1.8%               |
-| Thai            | th      | 28,586,629       | 1.43%              |
-| Japanese        | ja      | 27,197,679       | 1.36%              |
-| Italian         | it      | 20,773,113       | 1.04%              |
+**Language breakdown to come**
 
 # Known Gaps
 | Date          | Time              |
