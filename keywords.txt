@@ -5,7 +5,7 @@ CDC                         1/28/2020
 Wuhancoronavirus            1/28/2020
 Wuhanlockdown               1/28/2020
 Ncov                        1/28/2020
-Wuhan                       1/28/2020
+Wuhan                       1/28/2020       11/28/2021
 N95                         1/28/2020
 Kungflu                     1/28/2020
 Epidemic                    1/28/2020
@@ -30,12 +30,12 @@ panicbuy                    3/14/2020
 panic buy                   3/14/2020
 panicbuying                 3/14/2020
 panic buying                3/14/2020
-14DayQuarantine             3/14/2020
-DuringMy14DayQuarantine     3/14/2020
+14DayQuarantine             3/14/2020       11/28/2021
+DuringMy14DayQuarantine     3/14/2020       11/28/2021       
 panic shop                  3/14/2020
 panic shopping              3/14/2020
 panicshop                   3/14/2020
-InMyQuarantineSurvivalKit   3/14/2020
+InMyQuarantineSurvivalKit   3/14/2020       11/28/2021
 panic-buy                   3/14/2020
 panic-shop                  3/14/2020
 coronakindness              3/15/2020
@@ -74,3 +74,7 @@ wearamask                   6/28/2020
 kung flu                    6/28/2020
 covididiot                  6/28/2020
 COVID__19                   7/9/2020
+omicron                     11/28/2021
+variant                     11/28/2021 
+vaccine                     11/28/2021
+travel ban                  11/28/2021
